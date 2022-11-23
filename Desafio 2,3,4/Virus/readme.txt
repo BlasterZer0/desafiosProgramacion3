@@ -1,0 +1,1 @@
+El virus tiene qué ser ejecutado con permisos de administrador.
